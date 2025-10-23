@@ -1,0 +1,30 @@
+# Arquivos de bytecode compilados do Java
+*.class
+
+# Arquivos de log
+*.log
+logs/
+
+# Arquivos de configuração de IDEs comuns
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/
+build/
+dist/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
